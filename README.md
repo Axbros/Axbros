@@ -1,5 +1,5 @@
 ## Hey 👋, I am zR，A freshman of AI
-I am a senior undergraduate student from Xi’an Jiaotong-Liverpool University, interning at [Zhipu AI](https://www.zhipuai.cn), Researching LLMs, Agents, and Multimodal Models. I have a passion for open-source and actively engage in related work.
+I am a student majoring in Artificial Intelligence from the University of Macau,Researching Computer Vision,LLMs,Agents,and Multimodal Models. I have a passion for open-source and actively engage in related work.
 
 I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
@@ -9,10 +9,10 @@ I am passionate about open-source initiatives and strive for deeper exploration 
 + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events!
  
 <a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo2.png"  width="80" height="80" border="80"/>
+  <img align="right" src="https://github.com/Axbros/Axbros/blob/main/Pic/logo2.png"  width="80" height="80" border="80"/>
 </a>
 <a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"/>
+  <img align="right" src="https://github.com/Axbros/Axbros/blob/main/Pic/1.png" width="180" height="240"/>
 </a>
 
 + 🌿: My MBTI is ESTJ, I enjoy traveling, drum , and mechanical elements(such as steam trains and typewriters), Welcome to become friends with me!
