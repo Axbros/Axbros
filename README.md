@@ -1,9 +1,13 @@
 ## Hey 👋, I am WongSyun，A freshman of AI
+
+
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Axbros)
 
+Resume:  [Christina Kopecky Resume](https://github.com/Axbros/Axbros/blob/main/file/resume_en.pdf) (PDF download)
+ 
 - 🍻 Freshman at 🇨🇳🇲🇴 [UM](https://um.edu.mo), Master in Artificial Intelligence
-- ⚡ Golang / Python / Vue /React .
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling /badminton
+- ⚡ Golang / Python / Vue /React 
+- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling / Badminton
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
@@ -16,15 +20,9 @@ I am passionate about open-source initiatives and strive for deeper exploration 
 + 🏆: Participated in several national competitions, such as [RoboMaster](https://www.robomaster.com/en-US) and [National Students' SmartCar Competition](https://www.smartcar.zone), and achieved some results, including national awards. These competitions have been truly fascinating.
 + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events!
  
-<a>
-  <img align="right" src="https://github.com/Axbros/Axbros/blob/main/Pic/logo2.png"  width="80" height="80" border="80"/>
-</a>
-<a>
-  <img align="right" src="https://github.com/Axbros/Axbros/blob/main/Pic/1.png" width="180" height="240"/>
-</a>
-
-+ 🌿: My MBTI is ESTJ, I enjoy traveling, drum , and mechanical elements(such as steam trains and typewriters), Welcome to become friends with me!
-
+🌱 *Currently Learning*: NLP and Deep Learning<br>
+🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
+💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mc45334@um.edu.mo)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/copilotshub)
