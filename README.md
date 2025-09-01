@@ -6,7 +6,7 @@
 Resume:  [Wong Syun Resume](https://github.com/Axbros/Axbros/blob/main/file/resume_en.pdf) (PDF download)
  
 - 🍻 Freshman at 🇨🇳🇲🇴 [UM](https://um.edu.mo), Master in Artificial Intelligence
-- ⚡ Golang / Python / Vue /React 
+- ⚡ Golang / Python / Vue / React 
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling / Badminton
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
